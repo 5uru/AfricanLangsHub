@@ -1,0 +1,51 @@
+# Dataset List
+
+
+- https://huggingface.co/datasets/chrisjay/crowd-speech-africa
+
+- https://github.com/besacier/ALFFA_PUBLIC/tree/master
+- https://github.com/getalp/ALFFA_PUBLIC/tree/master
+- https://huggingface.co/cawoylel
+-  yoruba: https://www.openslr.org/86/
+- South African : https://www.openslr.org/32/
+- https://www.openslr.org/25/
+- https://www.openslr.org/57/
+- https://www.openslr.org/70/
+- https://www.openslr.org/105/
+- https://www.openslr.org/106/
+- https://github.com/Niger-Volta-LTI/yoruba-audio?tab=readme-ov-file
+- http://www.elra.info/en/catalogues/language-resources-announcements/
+- https://github.com/ogunlao/yoruba_speech_project
+- https://www.kamperh.com/yfacc/
+- https://huggingface.co/datasets/vpetukhov/bible_tts_hausa
+- https://www.openslr.org/129/
+- https://github.com/kamperh/yfacc
+- https://commonvoice.mozilla.org/fr/datasets
+- https://huggingface.co/datasets/odunola/yoruba-audio-preprocessed-2
+- https://huggingface.co/datasets/tobiolatunji/afrispeech-200
+- https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter/data
+- https://zindi.africa/competitions/ai4d-africas-anglophone-research-lab-tanzania-automatic-speech-recognition-challenge/data
+- https://zindi.africa/competitions/mozilla-luganda-automatic-speech-recognition/data
+- https://zindi.africa/competitions/swahili-audio-classification/data
+- https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data
+- https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-peulh-fulfulde/data
+- https://zindi.africa/competitions/google-asr-hack-series-africa-asr-data-challenge/data
+- https://repo.sadilar.org/handle/20.500.12185/527
+- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YHXJSU
+- https://www.findke.ovgu.de/findke/en/Research/Data+Sets/Amharic+Speech+Corpus.html
+- https://github.com/danielajisafe/ASR-Nigeria-Pidgin?tab=readme-ov-file
+- https://github.com/csikasote/BembaSpeech/tree/master
+- https://masakhane-io.github.io/bibleTTS/
+- https://github.com/neulab/AfricanVoices/tree/main
+- https://live.bible.is/bible/engesv/mat/1
+- https://github.com/festvox/datasets-CMU_Wilderness
+- https://gamayun.translatorswb.org/data/
+- https://github.com/festvox/datasets-CMU_Wilderness
+- https://gamayun.translatorswb.org/download/swc-audio-commands/
+- https://gamayun.translatorswb.org/download/congolese-swahili-audio-mini-kit/
+- https://gamayun.translatorswb.org/download/swc-stt-model/
+- https://gamayun.translatorswb.org/download/swc-tico-19-audio-devset/
+- https://gamayun.translatorswb.org/download/congolese-swahili-tico-19-audio-test-set/
+- https://zenodo.org/records/6997806
+- https://data.mendeley.com/datasets/j6kjmfrbby/2
+- https://lanfrica.com/
